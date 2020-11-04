@@ -1,7 +1,7 @@
 # Debates-and-Undecided-Voters
 analysis + source code for Political Behavior Seminar 
 
-This piece was originally written as a part of POLI 480: Seminar in Political Behavior at Rice University
+This piece was originally written as a part of POLI 480: Seminar in Political Behavior at Rice University in Spring 2019
 
 If you would like access to raw data please email lrp6@rice.edu
 
